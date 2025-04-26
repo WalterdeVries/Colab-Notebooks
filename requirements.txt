@@ -1,0 +1,6 @@
+coolprop
+numpy
+scipy
+matplotlib
+jupyter
+pandas
